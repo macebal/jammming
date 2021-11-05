@@ -1,6 +1,6 @@
 # Jammming
 
-This is a sample React app that let's you search songs, create a playlist and add it to your Spotify Account.
+This is a sample React app that lets you search songs, create a playlist and add it to your Spotify Account.
 
 ## Live View
 
