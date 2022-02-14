@@ -8,8 +8,9 @@ Available at http://mature-earthquake.surge.sh/
 
 You can use the following credentials to test the app:
 
-login: jammming_spotify@protonmail.com
-password: j4mmm1ng
+**login**: jammming_spotify@protonmail.com
+
+**password**: j4mmm1ng
 
 ### Notes
 
